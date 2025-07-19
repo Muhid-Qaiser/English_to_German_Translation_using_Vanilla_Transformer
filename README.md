@@ -1,0 +1,2 @@
+# English_to_German_Translation_using_Vanilla_Transformer
+Training a Vanilla Transformer on Translating English to German sentences
